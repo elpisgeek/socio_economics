@@ -39,4 +39,12 @@ The economy is an area of the production,distribution and trade,as well as consu
 
 #### Demo
 
-[](https://github.com/prince381/socio_economics/blob/master/socio%20economics.gif)
+![](https://github.com/prince381/socio_economics/blob/master/socio_economics.gif)
+
+
+#### Project by : Prince Owusu
+#### Completed on : 13/11/2019
+
+#### contact
+#### Email : [powusu381@gmail.com](powusu381@gmail.com)
+#### Twitter : [@iam_kwekhu](https://twitter.com/iam_kwekhu)
