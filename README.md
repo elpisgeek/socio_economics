@@ -2,13 +2,13 @@
 
 In this repository,are the resources of my socio-economic data analysis and visualization project.These resources include;
 * a data folder that contains csv data files used in the analysis.All the data files used were downloaded from the [World Bank](https://data.worldbank.org) open data site.
-* a python script named 'app.py' that makes up an interactive reporting engine (dashboard) that renders the visualizations of the data.
+* a python script named 'app.py' that makes up a multi-page interactive reporting engine (dashboard) that renders the visualizations of the data.
 * a 'requirements.txt' file that contains the modules imported in the python script and thier respective versions,alongside a 'procfile' file that are needed for the application's deployment to a server.
 * a 'README.md' file that contains the project and the repository information.
 
 ## About the Project
 
-In this project,I intend to analyze and visualize in a reporting engine (dashboard), the data for three important socio-economic indicators.These indicators are Health,Education,and Economic growth.A greater part of the success of every country depends on the state of these three socio-economic indicators and the variables associated with them as they form an integral part of the country.
+In this project,I intend to analyze and visualize in a multi-page reporting engine (dashboard), the data for three important socio-economic indicators.These indicators are Health,Education,and Economic growth.A greater part of the success of every country depends on the state of these three socio-economic indicators and the variables associated with them as they form an integral part of the country.
 
 #### Health
 
@@ -34,3 +34,9 @@ The economy is an area of the production,distribution and trade,as well as consu
 * Gross National Income
 * GDP current
 * and many more
+
+### Reporting engine (Dashboard)
+
+#### Demo
+
+[](https://github.com/prince381/socio_economics/blob/master/socio%20economics.gif)
