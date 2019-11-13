@@ -7,8 +7,6 @@ from dash.dependencies import Input,Output
 import plotly as py
 import plotly.graph_objs as go
 from flask_caching import Cache
-import os
-os.chdir('.//Desktop//EDUCATE//DATA CSV/Global')
 
 
 
