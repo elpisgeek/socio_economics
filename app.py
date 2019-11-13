@@ -1235,7 +1235,7 @@ def econ_text2(country,indicator):
         dcc.Markdown(text3)
     ]
     
-app.scripts.config.serve_locally = True
-app.css.config.serve_locally = True
+
+
 if __name__ == '__main__':
     app.run_server(debug=False)
