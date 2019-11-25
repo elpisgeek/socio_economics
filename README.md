@@ -44,7 +44,7 @@ The economy is an area of the production,distribution and trade,as well as consu
 * GDP current
 * and many more
 
-========================================================================================================================
+===================================================================================
 
 ##### Project by : Prince Owusu
 ##### Completed on : 13/11/2019
